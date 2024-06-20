@@ -1,3 +1,5 @@
+** SEARCHES 1: DEPRESSION DATABASE**
+
 **PubMed**
 ---
 Psychotherapy [MH] OR psychotherap*[All Fields] OR cbt[All Fields] OR "behavior therapies"[All Fields] OR
