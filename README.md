@@ -1,6 +1,6 @@
 ## **The `data-depression-selfguided-psyctr` dataset** 📊 
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10185216-blue">](https://doi.org/10.5281/zenodo.10185216) **@MATHIAS: THIS SHIELD NEEDS TO BE CHANGED!!!**
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.12705748-blue">](https://doi.org/10.5281/zenodo.12705748) 
 
 The `data-depression-selfguided-psyctr` dataset is a meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) on self-guided interventions for adults with depressive symptoms. This MARD is part of the  [Metapsy project](https://www.metapsy.org/). The dataset contains study information and effect size data of randomized controlled trials that report the effect of psychotherapy on depressive symptoms, quality of life, patients' treatment satisfaction, and well-being. The date of the last search update is provided [here](https://github.com/metapsy-project/depression-selfguided-psyctr/blob/master/metadata/last_search.txt). This dataset includes **psychotherapy vs. control ('psy vs ctr')** comparisons. Effect sizes are provided for outcomes at post-tests and follow-ups. The results of a meta-analysis using this database can be read in this  [published article](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00243-3/fulltext).
 
